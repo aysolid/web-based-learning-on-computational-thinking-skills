@@ -1,0 +1,10 @@
+define algorithm and flowchart;
+state the functions of algorithms
+state and describe the characteristics of algorithms
+write simple algorithsm for problem solving
+list flowchart symbols
+state what each symbol stands for
+draw folwcharts for solving a given problem
+
+
+Statistical product and service solution for windows

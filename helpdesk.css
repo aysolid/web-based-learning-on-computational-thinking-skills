@@ -1,0 +1,33 @@
+.helpdesk-img{
+width: 24%;
+height: 180px;
+float: right;
+margin-top: 50px;
+
+
+
+}
+.how {
+    text-align: center;
+    margin-bottom: 40px;
+    font-family: 'Harrington', 'Bookman Old Style';
+    font-size: 20px;
+    
+    
+}
+
+.helpdeskbody {
+    margin-top: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+.helpdeskbody1 {
+    font-family: 'Harrington', 'Bookman Old Style';
+    font-size: 15px;
+    text-align: center;
+    margin-top: 0px;
+}
+.helpdeskbody a{
+    font-family: 'Harrington', 'Bookman Old Style';
+    color: maroon;
+}

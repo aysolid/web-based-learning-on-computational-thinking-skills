@@ -1,0 +1,113 @@
+.container-index {
+    width: 95%;
+    height: 615px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#E3E3DE;
+    
+
+}
+.header-index {
+	width: 100%;
+	height: 100px;
+    padding: 1px;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    vertical-align: middle;
+    border-bottom: 3px solid  #666666;
+    
+	
+	
+	
+	}
+
+	.exit {
+float: right;
+margin-top: 20px;    
+margin-right: 40px;
+height: 35px;
+width: 100px;
+  padding-top: 0px;
+  color: white;
+  background: #5F9EA0;
+  text-align: center;
+  border: 1px solid #B0C4DE;
+  border-bottom: none;
+  border-radius: 10px 10px 0px 0px;
+    background-color: darkseagreen;
+    font-size: 170%;
+    font-weight: bold;
+    color: rgb(243, 30, 14);
+  border-top-width: thick;
+  border-right-width: thick;
+  border-bottom-width: thick;
+  border-left-width: thick;
+  border-top-style: ridge;
+  border-right-style: ridge;
+  border-bottom-style:ridge;
+  border-left-style: ridge;
+
+  }
+
+  #exit {
+width: 100%;
+
+  }
+
+.img {
+  width: 100%;
+ text-align: center;
+  margin-top: 100px;
+}
+.congrat {
+
+  font-family: cursive;
+  font-size: 350%;
+  color: crimson;
+}
+ .msg {
+  font-family: "DeVinne Txt BT";
+  font-size: 200%;
+  color: rgb(216, 39, 8);
+
+
+ } 
+ #ext {
+   color: rgba(5, 2, 46, 0.815);
+   font-weight: bolder; 
+   font-size: 100%;
+ }
+
+
+a {
+	text-decoration: none;
+}
+
+a:link {
+	color: floralwhite;
+	
+  }
+  /* mouse over link */
+  a:hover {
+	color: red;
+	height:100%;
+	width: 100%;
+	background-color: beige;
+	
+  }
+
+  a:focus {
+	color: khaki;
+    
+  }
+  
+  /* visited link */
+  
+
+  /* selected link */
+  a:active {
+	color: yellow;
+  }
+
+
