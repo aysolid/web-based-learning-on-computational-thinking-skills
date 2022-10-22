@@ -1,1 +1,6 @@
 # web-based-learning-on-computational-thinking-skills
+Computational thinking among yong computer scientists, especially those at the secondary school level has become a focus in this century. The earlier this skill set is built among young computer science students, the better their programming potentials can be realized. 
+This web based learning course teaches the concept of program development, algorithm and flowchart. 
+
+The target audience for this eLearning course is senior secondary computer science students. The program followed a branching programmed instruction approach whereby performance of students in each stage will determine the movement to the next stage. It is designed to support indiviudal learning pace. 
+At the end of each lesson, a 10 multiple choice assessment test is given to the learners. If the student's performance is above 60%, he/she will be congratulated and allowed to move to the next lesson. However, if the performance is less than 60%, such learner will be redirected to advance learning contents for the same lesson, and be presented with the assessment test again to be retaken. Until the learner scores above 60%, he/she won't be allowed to proceed to the next lesson.
