@@ -1,0 +1,307 @@
+.container-index {
+    width: 95%;
+    height: 615px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#E3E3DE;
+    
+
+}
+.header-index {
+	width: 100%;
+	height: 100px;
+    padding: 1px;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    vertical-align: middle;
+    border-bottom: 3px solid  #666666;
+    
+	
+	
+	
+	}
+
+	#topic {
+		width: 60%;
+    margin-left: 22%;
+		text-align: center;
+	
+	}
+
+.topic {
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: #c52431;
+  font-size: 250%;
+   
+
+}
+
+.logout-index {
+  float: right;
+    width: 7%;
+    margin-top: 0px;
+    position: relative;
+    top: -95px;
+    right: 30px;
+}
+
+#logout-index {
+  width: 100%;
+  float: right;
+  height: 30px;
+  padding-top: 0px;
+  color: white;
+  background: #5F9EA0;
+  text-align: center;
+  border: 1px solid #B0C4DE;
+  border-bottom: none;
+  border-radius: 10px 10px 0px 0px;
+    background-color: darkseagreen;
+    font-size: 130%;
+    font-weight: bold;
+    color: rgb(243, 30, 14);
+  border-top-width: thick;
+  border-right-width: thick;
+  border-bottom-width: thick;
+  border-left-width: thick;
+  border-top-style: ridge;
+  border-right-style: ridge;
+  border-bottom-style:ridge;
+  border-left-style: ridge;
+       
+}
+.lesson1-mainbody {
+    width: 100%;
+    
+    }
+
+.program-txt{
+  text-align: center;
+  float: left;
+  width: 33%;
+  height: 280pt;
+  border-top-width: thick;
+  border-right-width: thick;
+  border-bottom-width: thick;
+  border-left-width: thick;
+  border-top-style: inset;
+  border-right-style: inset;
+  border-bottom-style:inset;
+  border-left-style: inset;
+  margin-left: 5%;
+  margin-top: 18px;
+  padding-right: 15px;
+
+}
+
+h2{
+  color: rgb(95, 3, 34);
+  margin-bottom: -15px;
+}
+
+ol{
+    width: 90%;
+font-family: 'Berlin Sans FB Demi';
+   font-size: 19px;
+   line-height: 1.5em;
+  padding-left: 7px;
+   color: rgb(95, 3, 34);
+   text-align: left;
+   margin-left: 30px;
+   
+ 
+  }
+
+
+  .program-video{
+    text-align: center;
+    float: right;
+    width: 50%;
+    height: 350px;
+    border-top-width: thick;
+    border-right-width: thick;
+    border-bottom-width: thick;
+    border-left-width: thick;
+    border-top-style: inset;
+    border-right-style: inset;
+    border-bottom-style:inset;
+    border-left-style: inset;
+    margin-right: -40px;
+    margin-top: 18px;
+    padding: 10px;
+    
+  
+  }
+
+ 
+.next-div {
+  width: 100%;
+  
+  
+}
+
+#next {
+  width: 30%;
+  float: left;
+  margin-left: 80%;
+  margin-top: 10px;
+}
+  
+
+
+a {
+	text-decoration: none;
+}
+
+a:link {
+	color: floralwhite;
+	
+  }
+  /* mouse over link */
+  a:hover {
+	color: red;
+	height:100%;
+	width: 100%;
+	background-color: beige;
+	
+  }
+
+  a:focus {
+	color: khaki;
+    
+  }
+  
+  /* visited link */
+  
+
+  /* selected link */
+  a:active {
+	color: yellow;
+  }
+
+
+button:hover {
+  opacity: 0.8;
+
+}
+
+#register{
+    color: #FFF;
+    background-color: rgb(201, 201, 174);
+    text-align: center;
+    border-top-width: thick;
+    border-right-width: thick;
+    border-bottom-width: thick;
+    border-left-width: thick;
+    border-top-style: outset;
+    border-right-style: outset;
+    border-bottom-style: outset;
+    border-left-style: outset;
+    vertical-align: middle;
+    width: 70%;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    transition: 1s;
+    border-radius: 10px 10px 0px 10px;
+    
+}
+
+#register:hover {
+  transform: scale(1.1);
+  
+}
+
+.click{  /* "Click to Register" This text is defined here  */
+  margin: 0;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 23px;
+  color: brown;
+}
+
+
+.animate {
+  animation: zoom 0.6s
+}
+
+@keyframes zoom {
+  from {transform: scale(0)}
+  to {transform: scale (1)}
+}
+
+
+.modal {
+  display: none;
+  position: relative;
+  z-index: 1;
+  left: -5px;
+  top: -105px;
+  text-align: center;
+  width: 100%;
+  height: 280pt;
+  border-top-width: thick;
+  border-right-width: thick;
+  border-bottom-width: thick;
+  border-left-width: thick;
+  border-top-style: inset;
+  border-right-style: inset;
+  border-bottom-style:inset;
+  border-left-style: inset;
+  padding-right: 15px;
+  background-color: floralwhite;
+
+}
+
+
+
+
+
+
+.modal-content {
+  margin: 4% auto 15% auto;
+  width: 40%;
+  padding-bottom: 30px;
+
+}
+
+.close:hover, .close:focus {
+  color: red;
+  cursor: pointer;
+
+}
+
+.close {
+font-weight: bold;
+font-size: 50px;
+margin-top: 0px;
+margin-right: 0px;
+position: relative;
+top: -10px;
+right: -10px;
+color: #c52431;
+
+}
+
+.form-close {
+  width: 100%;
+  height: 10px;
+  margin-top: -10px;
+  margin-right: 0px;
+  text-align: right;
+  font-size: 40px;
+  color: antiquewhite;
+
+}
+
+
+.animate {
+  animation: zoom 0.6s
+}
+
+@keyframes zoom {
+  from {transform: scale(0)}
+  to {transform: scale (1)}
+}
+

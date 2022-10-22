@@ -1,0 +1,170 @@
+.container-index {
+    width: 95%;
+    height: 615px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#E3E3DE;
+    
+
+}
+.header-index {
+	width: 100%;
+	height: 100px;
+    padding: 1px;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    vertical-align: middle;
+    border-bottom: 3px solid  #666666;
+    
+	
+	
+	
+	}
+
+	#topic {
+		width: 60%;
+    margin-left: 18%;
+		text-align: left;
+	
+	}
+
+.topic {
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: #c52431;
+  font-size: 300%;
+   
+
+}
+
+.logout-index {
+  float: right;
+    width: 7%;
+    margin-top: 0px;
+    position: relative;
+    top: -110px;
+    right: 30px;
+}
+
+#logout-index {
+  width: 100%;
+  float: right;
+  height: 30px;
+  color: white;
+  background: #5F9EA0;
+  text-align: center;
+  border: 1px solid #B0C4DE;
+  border-bottom: none;
+  border-radius: 10px 10px 0px 0px;
+    padding-top: 10px;
+    background-color: darkseagreen;
+    font-size: 130%;
+    font-weight: bold;
+    color: darkblue;
+  border-top-width: thick;
+  border-right-width: thick;
+  border-bottom-width: thick;
+  border-left-width: thick;
+  border-top-style: ridge;
+  border-right-style: ridge;
+  border-bottom-style:ridge;
+  border-left-style: ridge;
+       
+}
+.objective{
+  text-align: center;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+
+}
+
+#obj {
+  width: 25%;
+font-family: 'Berlin Sans FB Demi';
+margin-left: auto;
+  margin-right: auto;
+  background-color: rgba(190, 190, 148, 0.808);
+  font-size: 240%;
+  padding:5px;
+  color: rgb(2, 56, 56);
+  border-top-width: thick;
+  border-right-width: thick;
+  border-bottom-width: thick;
+  border-left-width: thick;
+  border-top-style: inset;
+  border-right-style: inset;
+  border-bottom-style:inset;
+  border-left-style: inset;
+
+}
+
+.at-the-end{
+width: 55%;
+margin-left: 15%;
+margin-left: auto;
+margin-right: auto;
+margin-top: 3%;
+font-family: 'CentSchbkCyrill BT';
+line-height: 1.7em;
+font-size: 1.5em;
+color: rgb(202, 61, 5);
+border-top-width: thick;
+  border-right-width: unset;
+  border-bottom-width: thick;
+  border-left-width: unset;
+  border-top-style: groove;
+  border-right-style: groove;
+  border-bottom-style:groove;
+  border-left-style: groove;
+
+}
+
+#p-at{
+  margin-left: 5%;
+  margin-bottom: -23px;
+}
+.begin {
+  width: 30%;
+
+  float: right;
+  text-align: right;
+  margin-top: 10px;
+  margin-right: 5%;
+}
+
+
+
+
+a {
+	text-decoration: none;
+}
+
+a:link {
+	color: floralwhite;
+	
+  }
+  /* mouse over link */
+  a:hover {
+	color: red;
+	height:100%;
+	width: 100%;
+	background-color: beige;
+	
+  }
+
+  a:focus {
+	color: khaki;
+    
+  }
+  
+  /* visited link */
+  
+
+  /* selected link */
+  a:active {
+	color: yellow;
+  }
+
+

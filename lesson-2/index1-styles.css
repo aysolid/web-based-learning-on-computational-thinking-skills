@@ -1,0 +1,292 @@
+.container-index {
+    width: 95%;
+    height: 615px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#E3E3DE;
+    
+
+}
+.header-index {
+	width: 100%;
+	height: 100px;
+    padding: 1px;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    vertical-align: middle;
+    border-bottom: 3px solid  #666666;
+	
+	
+	
+	}
+.menutop-index1 { /* The menutop which contains the home, about, guidelines, instructions....
+	This is the container wrapping them  */
+  width: 60%;
+  height: 40px;
+  background-color: rgba(71, 177, 115, 0.932);
+  border-bottom: 3px solid #86cdcd;
+  padding: 0;
+  margin-bottom: 0em;
+  text-align: center;
+  vertical-align: top;
+  min-height: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 120%;
+  border-top-width: thick;
+	border-right-width: thick;
+	border-bottom-width: thick;
+	border-left-width: thick;
+	border-top-style: ridge;
+	border-right-style: ridge;
+	border-bottom-style:ridge;
+	border-left-style: ridge;
+	vertical-align: middle;
+	border-top-right-radius: 20px;
+	border-bottom-right-radius:0px;
+	border-bottom-left-radius: 0px;
+	border-top-left-radius: 20px;
+   
+ 
+
+}
+#home-index {
+	width: 100%;
+  height: 30px;
+  vertical-align: middle;
+  padding-top: 8px;
+	color: white;
+	background-color: darkseagreen;
+	text-align: center;
+	border: 1px solid #B0C4DE;
+	border-bottom: none;
+	border-radius: 10px 10px 0px 0px;
+  font-size: 105%;
+  font-weight: bold;
+  color: darkblue;
+  border-top-width: thick;
+  border-right-width: thick;
+  border-bottom-width: thick;
+  border-left-width: thick;
+  border-top-style: ridge;
+  border-right-style: ridge;
+  border-bottom-style:ridge;
+  border-left-style: ridge;
+    
+    
+
+  
+}
+.home-index{
+  float: left;
+  margin-left: 10%;
+  width: 15%;
+  font-weight: bold;
+  color: darkblue;
+  
+  
+
+}
+
+#objectives-index {
+	width: 100%;
+  height: 30px;
+  vertical-align: middle;
+  padding-top: 8px;
+	color: white;
+	background-color: darkseagreen;
+	text-align: center;
+	border: 1px solid #B0C4DE;
+	border-bottom: none;
+	border-radius: 10px 10px 0px 0px;
+  font-size: 105%;
+  font-weight: bold;
+  color: darkblue;
+  border-top-width: thick;
+  border-right-width: thick;
+  border-bottom-width: thick;
+  border-left-width: thick;
+  border-top-style: ridge;
+  border-right-style: ridge;
+  border-bottom-style:ridge;
+  border-left-style: ridge;
+    
+    
+
+  
+}
+.objectives-index{
+  float: left;
+  margin-left: 7%;
+  width: 30%;
+  
+  
+
+}
+
+
+
+
+.logout-index {
+  float: right;
+  margin-right: 10%;
+  width: 20%
+}
+
+#logout-index {
+  float: right;
+width: 100%;
+  height: 30px;
+  vertical-align: middle;
+  padding-top: 8px;
+  color: white;
+  background: #5F9EA0;
+  text-align: center;
+  border: 1px solid #B0C4DE;
+  border-bottom: none;
+  border-radius: 10px 10px 0px 0px;
+    font-size: 100%;
+    background-color: darkseagreen;
+    font-size: 105%;
+    font-weight: bold;
+    color: darkblue;
+  border-top-width: thick;
+  border-right-width: thick;
+  border-bottom-width: thick;
+  border-left-width: thick;
+  border-top-style: ridge;
+  border-right-style: ridge;
+  border-bottom-style:ridge;
+  border-left-style: ridge;
+    
+    
+    
+}
+
+
+.menutop a{
+	color: white;
+	font-family: Bitter, Georgia, "Times New Roman";
+letter-spacing: .065em;
+display: inline;
+}
+
+#menutop li{
+	display:inline;
+	margin: 0;
+	padding: 1% .67%;
+	margin-right: 5%;
+
+}
+
+a {
+	text-decoration: none;
+}
+
+a:link {
+	color: floralwhite;
+	
+  }
+  /* mouse over link */
+  a:hover {
+	color: red;
+	height:100%;
+	width: 100%;
+	background-color: beige;
+	
+  }
+
+  a:focus {
+	color: khaki;
+    
+  }
+  
+  /* visited link */
+  
+
+  /* selected link */
+  a:active {
+	color: yellow;
+  }
+
+.home a{
+  color: greenyellow;
+  
+}
+
+  .about a{
+	 color: greenyellow;
+
+  }
+  .guidelines a{
+	color: greenyellow;
+	
+ }
+
+.helpdesk a{
+  color: greenyellow;
+  
+}
+#olguidelines li {
+	margin-bottom: 15px;
+}
+
+.index1-mainbody{
+  margin-top: 30px;
+  width: 100%;
+
+  
+
+}
+.lesson{
+  float: left;
+  width: 20%;
+  margin-top: 30px;
+  margin-left: 2%;
+  text-align: left;
+  
+}
+
+.sub-lesson{
+  margin-bottom: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   color: snow;
+   background-color: darkcyan;
+   height: 38px;
+   vertical-align: middle;
+   width: 70%;
+  margin-left: 20px;
+  margin-top: 50px;
+  border-style: outset;
+  text-align: center;
+  padding-top: 5px;
+  font-weight: bold;
+  font-size: 150%;
+
+  }
+
+  .anim {
+    float: right;
+    width: 600px;
+    height: 390px;
+    margin-left: 0px;
+    margin-right: 35px;
+    margin-top: 30px;
+  }
+
+ .pointer{
+  float: left;
+    width: 200px;
+    height: 50px;
+    margin-left: 22px;
+    margin-right: 0px;
+    margin-top: 60px;
+    text-align: center;
+    line-height: 1.7em;
+    font-family: cursive;
+    color: brown;
+    font-size: 16px;
+ }
+
+
